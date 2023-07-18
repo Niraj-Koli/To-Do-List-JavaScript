@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap");
+
+body {
+    background: #352f5b;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container {
+    max-width: 25rem;
+}
+
+input[type="text"],
+input[type="text"]:focus {
+    color: #fff;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
+    max-width: 25rem;
+}
+
+.todos li {
+    background: #423a6f;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+form > label {
+    font-size: 1.4rem;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.filtered {
+    display: none !important;
+}
