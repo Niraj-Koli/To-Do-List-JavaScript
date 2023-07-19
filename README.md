@@ -1,4 +1,4 @@
-# ToDo-List-JavScript
+# To-Do-List-JavScript
 
 Todo List With Search Feature Using JavaScript And Bootstrap For Styling. 
 
